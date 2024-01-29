@@ -10,3 +10,5 @@
    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge)https://img.shields.io/badge/facebook-blue?style=for-the-badge" alt="Facebook Badge"/>
   </a>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=Jpazda&style=flat-square&color=blue" alt=""/>
