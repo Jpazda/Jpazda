@@ -7,6 +7,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a src="https://www.facebook.com/john.pazda">
-   <img src="https://img.shields.io/badge/facebook-blue" alt="Facebook Badge"/>
+   <img src="[https://img.shields.io/badge/facebook-blue](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=Facebook&logoColor=blue)https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=Facebook&logoColor=blue" alt="Facebook Badge"/>
   </a>
 </div>
