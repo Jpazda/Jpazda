@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻: About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the US. I am experienced in HTML, CSS, React, Python, Flask, PostgreSQL, and More! 
-- 🔭: In my free time, I am currently studying for the AWS Developer Associate Certification, working on Leetcode problems, and always trying to improve my current projects or start new ones!
+- 🔭: In my free time, I am currently studying for the AWS Developer Associate Certification, working on Leetcode problems, and always trying to improve my current projects or start new ones! I also play guitar and drums, spend time with friends and family and love exploring new cities when I am not coding!
 - 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-JohnPazda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-pazda/)
 
 
