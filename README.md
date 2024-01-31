@@ -9,20 +9,11 @@
 - 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-JohnPazda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-pazda/)
 
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/john-pazda/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a src="https://www.facebook.com/john.pazda">
-   <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge)https://img.shields.io/badge/facebook-blue?style=for-the-badge" alt="Facebook Badge"/>
-  </a>
-</div>
-
-<div id="views" align="center">
-<img src="https://komarev.com/ghpvc/?username=Jpazda&style=flat-square&color=blue" alt=""/>
-</div>
 <div id="stats" align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Jpazda&hide=contribs,prs" />
+</div>
+<div id="views" align="center">
+<img src="https://komarev.com/ghpvc/?username=Jpazda&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div align="center">
