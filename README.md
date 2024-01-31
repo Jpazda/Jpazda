@@ -15,7 +15,7 @@
 <img src="https://komarev.com/ghpvc/?username=Jpazda&style=flat-square&color=blue" alt=""/>
 </div>
 <div id="stats" align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jpazda&hide=contribs,prs)
+ <img src="https://github-readme-stats.vercel.app/api?username=Jpazda&hide=contribs,prs" />
 </div>
 
 <div align="center">
