@@ -10,7 +10,7 @@
 
 
 <div id="stats" align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Jpazda&hide=contribs,prs" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Jpazda&hide=issues" />
 </div>
 <div id="views" align="center">
 <img src="https://komarev.com/ghpvc/?username=Jpazda&style=flat-square&color=blue" alt=""/>
