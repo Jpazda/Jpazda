@@ -17,9 +17,11 @@
 </div>
 
 <div align="center">
+  <img src="coding.gif" width="600" height="300"/>
+</div>
+<div align="center">
   <img src="200w.gif" width="600" height="300"/>
 </div>
 
-![](https://github.com/Jpazda/Jpazda/200w.gif)
 
 
