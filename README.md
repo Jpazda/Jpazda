@@ -20,6 +20,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-![](https://github.com/Your_Repository_Name/https://media2.giphy.com/media/4yjzBDlvvoo99iriwI/200w.gif?cid=6c09b952nqvvtszyyd7alwnppi4kgiyn3xs1geabxdw4s9d8&ep=v1_videos_search&rid=200w.gif&ct=v)
+![](https://github.com/Jpazda/200w.gif)
 
 
